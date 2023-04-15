@@ -34,7 +34,7 @@ p {
     line-height: 30px;
 }
 img {
-    width: calc(100% - 50px);
+    width: 100%;
     height: auto;
 }
 button, .btn {
@@ -226,7 +226,7 @@ header .navbar {
 }
 
 .header__right { 
-    max-width: 650px;
+    max-width: 450px;
     width: 100%;
 }
 .offer__container {
